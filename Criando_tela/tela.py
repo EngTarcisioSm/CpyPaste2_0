@@ -14,8 +14,5 @@ class Tela:
         self.event, self.values = window.Read()
 
     def Start(self):
-        print(self.values)
-        print( type(self.values))
+        return self.values
 
-#tela = Tela()
-#tela.Start()
