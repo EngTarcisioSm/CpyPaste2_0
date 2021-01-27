@@ -4,7 +4,9 @@ def TestDir(dictDir):
     test = 1
     for i in dictDir:
         try:
-            os.listdir(dictDir[i])
+            print(i)
+            x = os.listdir(i)
+            print(x)
         except:
             test = 0
             break

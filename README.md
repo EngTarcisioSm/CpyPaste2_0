@@ -3,6 +3,10 @@
 - [X] VERIFICAÇÃO DE EXISTENCIA DE ARQUIVO DE CONFIGURAÇÃO
 - [X] NA AUSENCIA DO ARQUIVO DE CONFIGURAÇÃO REQUISITA-LOS, TESTA-LOS ATÉ SEREM VÁLIDOS 
 - [X] CASO JA EXISTA O ARQUIVO DE CONFIGURAÇÃO VERIFICAR SE O ENDEREÇO DE DIRETORIO LA EXISTENTE CONTINUA A SER VÁLIDO CASO NEGATIVO REFAZER AS REQUISIÇÕES
+- [X] Copiar arquivos para o destino em questão e verificar se a oringem ainda continua existindo  
+- [X] CORRIGIR O MAU FUNCIONAMENTO 1.0
 # PROXIMOS PASSOS 
  
-- [ ] Copiar arquivos para o destino em questão e verificar se a oringem ainda continua existindo  
+
+
+# PROBLEMAS
